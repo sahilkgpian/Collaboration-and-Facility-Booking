@@ -15,3 +15,5 @@ After we login we see the page where the recent posts have been made.
 ![clg3](https://github.com/user-attachments/assets/f6df10b6-b353-4225-9487-b9fda5ef7f06)
 
 ![clg4](https://github.com/user-attachments/assets/2c089884-c04a-4976-ac84-ea1b14b72264)
+
+# To create a new post in the College Collaboration and Facility Booking App, users can simply click on the "Add Post" button and fill out the required fields, including their name, roll number, file upload, and any additional comments. Once all the information is provided, users can submit the post, making it visible to others based on the permissions set by the admin. This streamlined process allows for easy content sharing and enhances collaboration within the college community.
