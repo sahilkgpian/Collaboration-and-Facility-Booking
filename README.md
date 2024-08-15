@@ -28,3 +28,12 @@ After we login we see the page where the recent posts have been made.
 # Admin can also edit or delete post.
 
 ![clg7](https://github.com/user-attachments/assets/e4f79c0f-8962-4cd6-a954-64155f37af2c)
+
+# In the College Collaboration and Facility Booking App, users can book a variety of facilities such as event rooms, library resources, and sports facilities. When making a booking, they are required to fill out a booking schedule that includes their name, reason for use, date, and the time slots for the start and end of their booking. This ensures that all necessary information is provided for efficient resource management and scheduling.
+
+
+
+
+
+
+
