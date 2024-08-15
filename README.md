@@ -32,6 +32,10 @@ After we login we see the page where the recent posts have been made.
 # In the College Collaboration and Facility Booking App, users can book a variety of facilities such as event rooms, library resources, and sports facilities. When making a booking, they are required to fill out a booking schedule that includes their name, reason for use, date, and the time slots for the start and end of their booking. This ensures that all necessary information is provided for efficient resource management and scheduling.
 
 
+![clg8](https://github.com/user-attachments/assets/f05876d5-20b6-41e7-bd63-1bb206eb944a)
+
+
+![clg9](https://github.com/user-attachments/assets/fb542913-7bad-48b2-9c4c-c2fe3cd62c0d)
 
 
 
