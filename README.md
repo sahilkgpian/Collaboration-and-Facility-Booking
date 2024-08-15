@@ -10,4 +10,8 @@ Below is the login page:-
 
 After we login we see the page where the recent posts have been made.
 
+![clg2](https://github.com/user-attachments/assets/a00c4a55-0715-4f49-8fd2-eee1958f5997)
 
+![clg3](https://github.com/user-attachments/assets/f6df10b6-b353-4225-9487-b9fda5ef7f06)
+
+![clg4](https://github.com/user-attachments/assets/2c089884-c04a-4976-ac84-ea1b14b72264)
