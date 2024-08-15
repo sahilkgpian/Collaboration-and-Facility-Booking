@@ -38,6 +38,11 @@ After we login we see the page where the recent posts have been made.
 ![clg9](https://github.com/user-attachments/assets/fb542913-7bad-48b2-9c4c-c2fe3cd62c0d)
 
 
-
+# Technology Stack
+# Frontend: React, Tailwind CSS
+# Backend: Node.js, Express.js
+# Database: MongoDB
+# Authentication: JWT-based authentication
+# Deployment: Docker, Kubernetes
 
 
