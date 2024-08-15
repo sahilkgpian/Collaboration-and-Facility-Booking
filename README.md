@@ -22,3 +22,5 @@ After we login we see the page where the recent posts have been made.
 
 
 # Users can also save the posts by clicking save post.
+
+![clg6](https://github.com/user-attachments/assets/fa448b01-5bd4-4217-a5a3-a822f3deb848)
