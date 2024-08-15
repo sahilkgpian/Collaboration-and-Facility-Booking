@@ -24,3 +24,7 @@ After we login we see the page where the recent posts have been made.
 # Users can also save the posts by clicking save post.
 
 ![clg6](https://github.com/user-attachments/assets/fa448b01-5bd4-4217-a5a3-a822f3deb848)
+
+# Admin can also edit or delete post.
+
+![clg7](https://github.com/user-attachments/assets/e4f79c0f-8962-4cd6-a954-64155f37af2c)
